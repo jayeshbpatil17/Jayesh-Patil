@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Jayesh Patil </h1>
 <!--<h3 align="center">A Boy trying to Figure-Out Stuff!!</h3>-->
 
@@ -7,13 +6,16 @@
 </p>
 <hr/>
 
-- 👀 I’m interested in Software Development, Android Development, Java Development  and much more
+- 👀 I’m interested in Software Development, Android Development, Java Development and much more
 - 🌱 I’m currently learning Java, DS & ALGO ,python, html5, css3, javascript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on .....
 - 📫 How to reach me **jayeshbpatil17@gmail.com**
 - ⚡ Fun fact **I think I am funny XD**
+
 ## 🛠️ My favorite tools
+
 ### 👨‍💻 Programming languages
+
 <p>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ac"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acpp"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
@@ -68,12 +70,11 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-
 <!--
 ## 📊 Github stats
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<!-- https://github.com/anuraghazra/github-readme-stats 
-<details> 
+<!-- https://github.com/anuraghazra/github-readme-stats
+<details>
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Yashita's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yashitanamdeo&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
@@ -87,7 +88,7 @@
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <!--
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph 
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
@@ -97,10 +98,10 @@
 </details>
 -->
 
-
 <!-- https://github.com/sisodiya2421 -->
 
 ## 🙋‍♀️ Let's Connect
+
 <p align="center">
 	<a href="https://github.com/jayeshbpatil17"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/jayeshbpatil/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
